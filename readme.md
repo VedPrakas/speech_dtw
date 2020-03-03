@@ -32,3 +32,4 @@ implementation to the Cython implementation.
 The IPython notebook [speech_dtw_qbe.ipynb](examples/speech_dtw_qbe.ipynb)
 illustrates how to do (very basic) query-by-example (QbE) search using standard
 DTW.
+[![Run on Repl.it](https://repl.it/badge/github/kamperh/speech_dtw)](https://repl.it/github/kamperh/speech_dtw)
